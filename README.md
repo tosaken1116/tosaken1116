@@ -64,7 +64,7 @@
 
 - [リポジトリ](https://github.com/tosaken1116/PteraCup_Front)
 
-### [ハックツハッカソン ノコギリカップ](https://hackz.team/news/5xyheTcsoVpGLT7D8Tww4R)
+### [ハックツハッカソン ノコギリカップ](https://hackz.team/news/6qvvsPCy5ZWzzSMCYrNo4f)
 - `2023/1/21,21`
 
 - 初めて`hasura`,`graphql`を使ったハッカソン
